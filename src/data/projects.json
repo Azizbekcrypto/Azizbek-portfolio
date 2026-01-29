@@ -61,8 +61,30 @@
     "featured": false,
     "alarm": true
   },
+
   {
     "id": 4,
+    "title": "Learning center Crm system",
+    "description": "O'quv markazlari uchun Admin, teacher va Studentni birlashtiradigan dars jarayonlari va uyga vazifalar hamda markaz moliyaviy hisob kitoblari va har qanday jarajonni raqamlashtirish uchun yaratilgan tizim. Adminka, Teacher Panel va Studentlar uchun telegram miniApp dan iborat.",
+    "techStack": [
+      "TypeScript",
+      "Node.js",
+      "Nest.js",
+      "typeOrm",
+      "React",
+      "Tailwind CSS",
+      "ShadcnUI",
+      "Telegraf.js",
+      "JWT auth",
+      "Google Auth"
+    ],
+    "githubLink": "https://github.com/AdhamRashidov/hmhy-front",
+    "liveDemo": "https://hmhy-front.vercel.app/",
+    "image": "/images/hmhy.png",
+    "featured": true,
+    "alarm": false
+  },   {
+    "id": 5,
     "title": "Techjobs Recruiting Company",
     "description": "Techjobs — bu recruiting platforma bo‘lib, dizayner, dasturchi, SMM va boshqa IT yo‘nalishidagi mutaxassislarning yagona bazasini shakllantiradi. Techjobs platforma orqali Kampaniyaning talablariga mos nomzodlarni filterlash, HR suhbatlarini o‘tkazish va xodim yollash imkoniga ega. Foydalanuvchilar esa Telegram bot orqali ro‘yxatdan o‘tib, o‘z profilini to‘ldiradi va mos ish takliflarini oladi. Admin panel orqali foydalanuvchilar, rollar, vakansiyalar va suhbat jarayonlari boshqariladi.",
     "techStack": [
@@ -81,28 +103,6 @@
     "liveDemo": "https://t.me/techjobsuzbot",
     "image": "/images/techjobs.png",
     "featured": false,
-    "alarm": false
-  },
-  {
-    "id": 5,
-    "title": "Help Me Help You Crm system",
-    "description": "O'quv markazlari uchun Admin, teacher va Studentni birlashtiradigan dars jarayonlari va uyga vazifalar hamda markaz moliyaviy hisob kitoblari va har qanday jarajonni raqamlashtirish uchun yaratilgan tizim. Adminka, Teacher Panel va Studentlar uchun telegram miniApp dan iborat.",
-    "techStack": [
-      "TypeScript",
-      "Node.js",
-      "Nest.js",
-      "typeOrm",
-      "React",
-      "Tailwind CSS",
-      "ShadcnUI",
-      "Telegraf.js",
-      "JWT auth",
-      "Google Auth"
-    ],
-    "githubLink": "https://github.com/AdhamRashidov/hmhy-front",
-    "liveDemo": "https://hmhy-front.vercel.app/",
-    "image": "/images/hmhy.png",
-    "featured": true,
     "alarm": false
   }
 ]
