@@ -1,4 +1,4 @@
-import { fetchRepos, fetchAllRepos } from "@/hooks/gitHubService";
+import { fetchAllRepos } from "@/hooks/gitHubService";
 import { Button } from "@/custom/button";
 import {
   Sheet,
@@ -13,9 +13,7 @@ import {
   Star,
   ExternalLink,
   Loader2,
-  User,
-  Code2,
-  ArrowUpRight,
+  User
 } from "lucide-react";
 import { useQuery } from "@tanstack/react-query";
 

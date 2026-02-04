@@ -1,4 +1,4 @@
-import { Github, Instagram, Linkedin, Mail, Origami, Send } from "lucide-react";
+import { Github, Instagram, Linkedin, Mail, Send } from "lucide-react";
 
 export const Footer = () => {
   const currentYear = new Date().getFullYear();
